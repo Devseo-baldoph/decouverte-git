@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 COUCOU C'est Mika, Sandra
-=======
-COUCOU C'est Mika
 Hello c'est Eric !
 SALUT C'est hakime
->>>>>>> a7acca5f5daf6f804e57e13e24094e82f93c0ff3
-Sandra
+hello world by Jk
+Salut SAYES Louay
+Salut c'est ibtissem
+
