@@ -1,3 +1,10 @@
-COUCOU C'est Mika
+COUCOU C'est Mika, Sandra
 Hello c'est Eric !
+<<<<<<< HEAD
 yo c'est steeven
+=======
+SALUT C'est hakime
+hello world by Jk
+Salut SAYES Louay
+Salut c'est ibtissem
+>>>>>>> 7d01d1a3f6977ef0ec20351923d7de6dfdbe88f9
