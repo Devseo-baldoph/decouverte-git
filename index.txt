@@ -1,2 +1,11 @@
+<<<<<<< HEAD
+COUCOU C'est Mika, Sandra
+=======
 COUCOU C'est Mika
+<<<<<<< HEAD
 Salut c'est ibtissem
+=======
+Hello c'est Eric !
+>>>>>>> a7acca5f5daf6f804e57e13e24094e82f93c0ff3
+Sandra
+>>>>>>> 251e323617c9eab776fd231732761614d0531a21
